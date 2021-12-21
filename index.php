@@ -11,9 +11,9 @@
     
     <?php
 
-        $nama    = 'Muh Nur Ihcsan Maulana BM';
+        $nama    = 'Nursyam';
         $jurusan = 'Informatika';
-        $alamat  = 'Jl. Mallombassang';
+        $alamat  = 'permata sudiang raya';
         
 
         $counter = 1;
